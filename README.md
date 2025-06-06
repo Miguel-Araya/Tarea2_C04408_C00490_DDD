@@ -4,12 +4,7 @@ This project is built with **C# and .NET**, following the principles of **Domain
 
 ## Architecture Overview
 
-The solution is structured according to the DDD (Domain-Driven Design) approach and includes the following layers:
-
-- **Domain:** Contains the core business logic, entities, value objects, and domain interfaces.
-- **Application:** Contains use cases (application services) that coordinate domain operations.
-- **Infrastructure:** Provides implementations for persistence (e.g., Entity Framework), external services, and technical concerns.
-- **Presentation (API):** Exposes the application use cases via a RESTful Web API.
+The solution is structured according to the DDD (Domain-Driven Design).
 
 ## Functionality
 
